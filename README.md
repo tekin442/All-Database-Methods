@@ -4,14 +4,6 @@ Code contains all database methods that you need.
 
 
 
-using System;
-using System.Collections.Generic;
-using System.Web;
-using System.Data;
-using System.Data.SqlClient;
-using System.Data.OleDb;
-using System.Configuration;
-
 namespace Webservice.Classes
 {
     public class Database
