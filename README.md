@@ -1,5 +1,7 @@
 # All-Database-Methods
 Code contains all database methods that you need.
+You have to set your database connection string.
+That general methods lost of the .net and C# developer
 
 
 
